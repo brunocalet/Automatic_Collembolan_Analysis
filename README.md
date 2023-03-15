@@ -85,6 +85,22 @@ In the `results` folder, size parameters of animals are stored in an Excel file.
 
 <img src="https://user-images.githubusercontent.com/92308626/225331144-0d9aa451-9d56-4990-96af-19a3194c1a48.png" width="250"><img src="https://user-images.githubusercontent.com/92308626/225331173-14d7cd05-16b5-4509-9636-19d04ccbc52d.png" width="250">
 
+This routine can be used not only for automatization of the counting and measuring of collembolans, but for the automatization of microplastics particles quantitative and qualitative analysis. For the analysis of microplastics, the same logic applies as described above. Here are sample images that can be loaded into this routine:
+
+<img src="https://user-images.githubusercontent.com/92308626/225340832-4513b506-559c-46dc-8eae-725934a06688.jpg" width="500">
+
+The image is part of our research on soil microplastics. The microplastics on this image are artificialy made by using electric knife sharpener to hone HDPE bottle. Size distribution of the particles is roughly from 4 μm to 1 mm.
+
+The analysis derived the following image:
+
+<img src="https://user-images.githubusercontent.com/92308626/225340444-15dbc4af-3280-4f11-ac1f-298f47a74b63.png" width="500">
+
+The analysis derived the following size distribution charts:
+
+<img src="https://user-images.githubusercontent.com/92308626/225341167-737e789e-9ba6-4463-9e51-efd2a70c5e44.png" width="250"><img src="https://user-images.githubusercontent.com/92308626/225341173-1c0b665f-879f-4290-b8d0-27f6901afbc7.png" width="250">
+
+It is also possible to differentiate between microplastics fragments and fibers by activating K-means clustering.
+
 This routine is the part of the ongoing research of soil microplastics conducted at the Subdepartment of Quantitative Ecology, Department of Biology, University of Josip Juraj Strossmayer in Osijek, Croatia.
 
 For any further information please contact: bruncaleta@gmail.com.
