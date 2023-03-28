@@ -34,7 +34,7 @@ conda install -c anaconda scikit-learn
 conda install numpy pandas matplotlib
 ```
 
-2. Put the sample image in PNG format inside the `img` folder: image should be named liek this: `sample1.png`
+2. Put the sample image in PNG format inside the `img` folder: image should be named like this: `sample1.png`
 
 Folder structure looks like this:
 
@@ -59,7 +59,7 @@ Source: [Mallard et al. 2013](https://journals.plos.org/plosone/article?id=10.13
 python collembolaAnalysis.py
 ```
 
-After the run, new files are created and the folder structure now looks like this:
+After the run, new files are created, and the folder structure now looks like this:
 
 ```bash
 ├── collembolaAnalysis.py
